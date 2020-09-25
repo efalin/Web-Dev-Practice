@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
+
+h1 {
+	color: rgb(0, 0, 0);
+	font-family: 'Open Sans', sans serif;
+	font-size: 240%;
+	
+}
+
+h1 {
+	color: #688BC6;
+	font-family: 'Open Sans', sans serif;
+	font-size: 250%;
+	
+}
+
+h2 {
+	color: #688BC6;
+	font-family: 'Open Sans', sans serif;
+	font-size: 150%;
+	
+}
+
+h3 {
+	color: #688BC6;
+	font-family: 'Open Sans', sans serif;
+	font-size: 75%;
+	
+}
+
+body {
+	padding: 20px;
+	color: rgb(0,0,0);
+	color: rgb(0,0,0);
+	font-family: 'Open Sans', sans serif;
+	
+}
+
+a:link {
+	color: #688BC6;
+
+}
+
+a:visited {
+	color: #516D9B;
+
+}
